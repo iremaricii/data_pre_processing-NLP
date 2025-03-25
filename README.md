@@ -11,13 +11,15 @@ Proje Amacı
   
   Örneğin:
   ----
-                                      Metin Ön İşleme Öncesi:
+.
+
+          Metin Ön İşleme Öncesi:
 
 ![image](https://github.com/user-attachments/assets/32482a9d-9c91-49a6-8c17-694cd28eeb12)
 
 
-                                        Metin Ön İşleme Sonrası: 
-
+          Metin Ön İşleme Sonrası: 
+  
 
 ![image](https://github.com/user-attachments/assets/33ec20f7-18c8-40d1-8bc0-80a832cdffaa)
 
